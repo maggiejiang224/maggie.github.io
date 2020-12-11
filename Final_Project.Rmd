@@ -28,7 +28,8 @@ This project will have several sections based on the plot types and the attribut
 
 Explorative Data Analysis Summay
 =======================================================================
-
+Row
+-----------------------------------------------------------------------
 ### Violin Plot
 
 ![](images/funny.png)
@@ -37,20 +38,21 @@ Explorative Data Analysis Summay
 Review WordCloud
 =======================================================================
 
+Row
+-----------------------------------------------------------------------
 
 ### WordCloud of Restaurant Reviews
 
 ![](images/wordcloud.png)
 
-***
-- The word cloud aligns with the expectation that words like "good", "great", "best", "delicious" appear very frequently in the reviews as the popular restaurants tend to have more positive reviews. 
-- It can also be noticed that words such as "bar", "drink", "chicken", "fish" and "taco" also appear frequently in the reviews which indicate
 
 
 
 Geographical Plots
 =======================================================================
 
+Row
+-----------------------------------------------------------------------
 ### Top Restaurants Distribution in Florida by Review Count
 
 ![](images/map.png)

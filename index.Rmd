@@ -31,9 +31,9 @@ Cheers!
 </div>
 <div class="col-sm-6">
 
-### [Kittens and Puppies :) ](https://maggie.github.io)
+### [Links to my github repository ](https://github.com/maggiejiang224/maggie.github.io)
 
-<a href = "https://maggie.github.io">
+<a href = "https://github.com/maggiejiang224/maggie.github.io">
 ![](images/kittens.jpg)
 </a>
 </div>
