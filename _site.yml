@@ -1,0 +1,11 @@
+name: "MyLabJournal"
+navbar:
+  title: "Maggie's Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Assignments"
+      href: Journal.html
+    - text: "External Links"
+      href: Links.html
+output_dir: "docs"
