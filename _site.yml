@@ -5,7 +5,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Assignments"
-      href: Journal.html
+      href: assignments.html
     - text: "Final Project"
-      href: Links.html
+      href: Final_Project.html
+
+      
 output_dir: "docs"
