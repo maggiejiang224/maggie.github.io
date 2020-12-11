@@ -31,27 +31,21 @@ Explorative Data Analysis Summay
 
 ### Violin Plot
 
-
-Based on the review type, the level of cool reviews are really spread out while the range of cool review level for Italian Cuisine are more concntrated around 0. 
-
-
-
-
 ![](images/funny.png)
-
 
 
 Review WordCloud
 =======================================================================
 
+
 ### WordCloud of Restaurant Reviews
 
 ![](images/wordcloud.png)
 
-
----------------------
+***
 - The word cloud aligns with the expectation that words like "good", "great", "best", "delicious" appear very frequently in the reviews as the popular restaurants tend to have more positive reviews. 
 - It can also be noticed that words such as "bar", "drink", "chicken", "fish" and "taco" also appear frequently in the reviews which indicate
+
 
 
 Geographical Plots
@@ -63,14 +57,14 @@ Geographical Plots
 
 
 
-
 Network Graph
 =======================================================================
+Row
+-----------------------------------------------------------------------
 
 ![](images/networkf.png)
 
--------------------------
-
+***
 - Source: overall rating of restaurants 
 - Target: average funny level of the reviews given
 - The range of rating is from 1 to 5. The range of funny level of reviews is from 0 to 10.
