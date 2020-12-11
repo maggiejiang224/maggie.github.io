@@ -19,25 +19,21 @@ output: html_document
 
 # **Maggie's Portfolio**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Hi everyone, welcome to my portfolio!
 
-## How to use
+I am Maggie currently a second year Grad Student at Georgetown University. The goal of this Portfolio is to present what I have learned and have done in ANAL 503: Data Visualization. This portfolio will present a variety of visualizations such as network graph, geographical plot with categorical, quantitative, time series data utilizing both R and Python's graphing tools such as matplotlib, ggplot2 and etc...
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+Feel free to contact me at fj122@georgetown.edu if you have any questions or would like to connect. 
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
+Cheers!
 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Kittens and Puppies :) ](https://maggie.github.io)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+<a href = "https://maggie.github.io">
+![](images/kittens.jpg)
 </a>
 </div>

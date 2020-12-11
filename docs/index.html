@@ -13,6 +13,7 @@
 
 <title>Maggie’s Online Portfolio</title>
 
+<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -22,17 +23,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -289,7 +279,7 @@ $(document).ready(function () {
   <a href="Journal.html">Assignments</a>
 </li>
 <li>
-  <a href="Links.html">External Links</a>
+  <a href="Links.html">Final Project</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -319,20 +309,16 @@ $(document).ready(function () {
 
 </style>
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-<h1 id="maggies-portfolio"><strong>Maggie’s Portfolio</strong></h1>
-<p>This is a template example for lab journaling. Students in Matt Crump’s Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.</p>
-<h2 id="how-to-use">How to use</h2>
-<ol style="list-style-type: decimal">
-<li><p>fork the repo for this website and follow instructions on read me to get set up. <a href="https://github.com/CrumpLab/LabJournalWebsite">https://github.com/CrumpLab/LabJournalWebsite</a></p></li>
-<li><p>Blog/journal what you are doing in R, by editing the Journal.Rmd. See the <a href="https://crumplab.github.io/LabJournalWebsite/Journal.html">Journal page</a> for an example of what to do to get started learning R.</p></li>
-<li><p>See the <a href="https://crumplab.github.io/LabJournalWebsite/Links.html">links page</a> for lots of helpful links on learning R.</p></li>
-<li><p>Change everything to make it your own.</p></li>
-</ol>
+<div id="maggies-portfolio" class="section level1 col-sm-6">
+<h1><strong>Maggie’s Portfolio</strong></h1>
+<p>Hi everyone, welcome to my portfolio!</p>
+<p>I am Maggie currently a second year Grad Student at Georgetown University. The goal of this Portfolio is to present what I have learned and have done in ANAL 503: Data Visualization. This portfolio will present a variety of visualizations such as network graph, geographical plot with categorical, quantitative, time series data utilizing both R and Python’s graphing tools such as matplotlib, ggplot2 and etc…</p>
+<p>Feel free to contact me at <a href="mailto:fj122@georgetown.edu" class="email">fj122@georgetown.edu</a> if you have any questions or would like to connect.</p>
+<p>Cheers!</p>
 </div>
-<div class="col-sm-6">
-<h3 id="crump-lab-human-cognition-and-performance"><a href="https://crumplab.github.io">Crump Lab: Human Cognition and Performance</a></h3>
-<p><a href = "https://crumplab.github.io"> <img src="images/logo.png" /> </a></p>
+<div id="enjoy-some-kittens-and-puppies" class="section level3 col-sm-6">
+<h3><a href="https://crumplab.github.io">Enjoy some Kittens and Puppies</a></h3>
+<p><a href = "https://crumplab.github.io"> <img src="images/kittens.jpg" /> </a></p>
 </div>
 
 
@@ -344,7 +330,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
