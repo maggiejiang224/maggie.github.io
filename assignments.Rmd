@@ -22,13 +22,39 @@ The goal of this assignment is to visualize historical US election data and unem
 
 ### California Voting Map and Unemployment Rate
 
+The first draft is too small, so I changed the color and the title sizes. 
+
+#### First draft
+
+![](images/CA1.png)
+
+
+
+#### Final draft
 ![](images/CA.png)
 
 
 ### Texas Voting Map and Unemployment Rate
+
+#### First draft
+
+![](images/TX1.png)
+
+
+#### Final draft
 ![](images/TX.png)
 
 ### Pennsylvania Voting Map and Unemployment Rate
+
+#### First draft
+
+The title is too small, so I did another draft.
+
+![](images/PA1.png)
+
+
+#### Final draft
+
 
 ![](images/PA.png)
 
